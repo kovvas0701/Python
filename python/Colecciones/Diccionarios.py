@@ -1,3 +1,4 @@
+
 #Diccionarios   # CLAVE : VALOR
 
 diccionario = {"azul" : "blue", "rojo" : "red", "verde" : "green" } 

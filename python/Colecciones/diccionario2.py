@@ -1,3 +1,4 @@
+
 #Diccionario
 
 futbol = {10: "Ansu Fati", 30: "Gavi", 1: "Ter Steguen", 19:"Kun Agüero"}
