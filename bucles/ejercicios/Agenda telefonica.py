@@ -1,6 +1,5 @@
 '''
 Hacer un programa que simule una agenda de contactos. Crear un diccionario donde la clave sea el nombre del usuario y el valor sea el telefono
-
 1. nuevo contacto
 2. borrar contacto
 3. ver contactos existentes
