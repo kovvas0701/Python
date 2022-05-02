@@ -1,6 +1,7 @@
 #Pide numeros y metelos en una lista, cuando el usariao meta un 0 ya dejaremos de insertar. Por ultimo, muestra los numeros ordenados de mayor a menos (Resuelto)
 
 
+
 lista = [] #Creacion de lista vacia
 
 while True:  #While True 
